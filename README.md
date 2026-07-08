@@ -1,5 +1,7 @@
 # Customer Churn Prediction Using Machine Learning
 
+A machine learning project that predicts customer churn and identifies key factors influencing customer retention using customer behaviour and service data.
+
 ## Overview
 
 Customer churn is a major challenge for businesses, particularly in industries such as banking and telecommunications where retaining existing customers is more cost-effective than acquiring new ones.
