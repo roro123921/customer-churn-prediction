@@ -6,7 +6,7 @@ Source:
 Kaggle - Customer Churn Prediction Dataset_1M  
 https://www.kaggle.com/datasets/isandeep06/customer-churn-prediction-dataset-1m
 
-The dataset contains **1,000,000 synthetic telecommunications customer records** designed to simulate real-world customer behaviour and churn patterns.
+The dataset contains **1,000,000 synthetic telecommunications customer records** designed to simulate realistic customer behaviour and churn patterns.
 
 The raw dataset contains:
 
@@ -124,8 +124,8 @@ The final modelling dataset contains:
 |---|---|
 | Demographics | age, gender, annual_income, education, marital_status, dependents |
 | Account | signup_date, tenure, contract, payment_method, paperless_billing |
-| Service Usage | monthly_charges, total_charges, num_services, service subscriptions |
-| Behaviour | satisfaction, complaints, service calls, late payments, data usage |
+| Service Usage | monthly_charges, total_charges, num_services, has_phone_service, has_internet_service, has_online_security, has_online_backup, has_device_protection, has_tech_support, has_streaming_tv, has_streaming_movies |
+| Behaviour | customer_satisfaction, num_complaints, num_service_calls, late_payments, avg_monthly_gb, days_since_last_interaction |
 | Financial | credit_score |
 | Target | churn |
 
