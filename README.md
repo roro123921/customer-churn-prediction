@@ -1,6 +1,6 @@
 # Customer Churn Prediction Using Machine Learning - Individual Project
 
-A machine learning project developing a classification pipeline to predict customer churn and identify key factors influencing customer retention using customer behaviour and service data.
+Machine learning project predicting customer churn using customer behaviour and service data. Includes data preprocessing, exploratory analysis, feature engineering and classification modelling.
 
 ---
 
