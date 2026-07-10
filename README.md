@@ -1,40 +1,47 @@
 # Customer Churn Prediction Using Machine Learning
 
-A machine learning project that predicts customer churn and identifies key factors influencing customer retention using customer behaviour and service data.
+A machine learning project developing a classification pipeline to predict customer churn and identify key factors influencing customer retention using customer behaviour and service data.
+
+---
 
 ## Overview
 
-Customer churn is a major challenge for businesses, particularly in industries such as banking and telecommunications where retaining existing customers is more cost-effective than acquiring new ones.
+Customer churn is a major challenge for businesses, particularly in industries such as telecommunications, banking, and subscription services, where retaining existing customers is often more cost-effective than acquiring new ones.
 
-This project develops a machine learning model to predict customers who are likely to leave a service. The goal is to identify key factors contributing to churn and provide insights that businesses can use to improve customer retention strategies.
+This project aims to develop a machine learning model that predicts whether a customer is likely to leave a service and analyses the factors contributing to churn behaviour.
+
+The project follows a complete data science workflow:
+
+- Data preparation
+- Exploratory data analysis
+- Feature engineering
+- Machine learning modelling
+- Model evaluation
+- Business insights
 
 ---
 
 ## Business Problem
 
-Customer churn directly impacts revenue and long-term customer relationships.
+Customer churn directly impacts revenue, customer relationships, and long-term business growth.
 
-The objective of this project is to:
+The objectives of this project are to:
 
-- Predict whether a customer is likely to churn.
-- Identify the most important factors influencing churn.
-- Provide actionable insights to support customer retention strategies.
+- Predict customers who are likely to churn.
+- Identify important factors influencing customer churn.
+- Provide insights that support customer retention strategies.
 
-This project simulates a real-world analytics workflow used by organisations to improve customer experience and reduce customer loss.
+This project simulates a real-world analytics workflow used by organisations to understand customer behaviour and improve retention outcomes.
 
 ---
 
 ## Dataset
 
-Dataset:
-Customer Churn Prediction Dataset
+**Dataset:** Customer Churn Prediction Dataset
 
-Source:
-[Insert dataset source]
+**Source:** To be added
 
-Description:
-
-The dataset contains customer demographic, account, service usage and behavioural information.
+The dataset contains customer demographic, account, service usage, and behavioural information.
 
 Key features include:
 
@@ -46,7 +53,7 @@ Key features include:
 - Customer satisfaction metrics
 - Complaint history
 
-Target variable:
+**Target variable:**
 
 - Churn (Yes/No)
 
@@ -54,23 +61,27 @@ Target variable:
 
 ## Technologies Used
 
-Programming:
+**Programming**
+
 - Python
 
-Libraries:
+**Data Analysis and Visualisation**
+
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 
-Machine Learning:
+**Machine Learning**
+
+- Scikit-learn
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Gradient Boosting (optional)
+- Gradient Boosting
 
-Development:
+**Development**
+
 - Jupyter Notebook
 - Git/GitHub
 
@@ -80,45 +91,51 @@ Development:
 
 ### 1. Data Preparation
 
-Tasks completed:
+Completed:
 
 - Loaded and inspected raw dataset
-- Checked missing values
-- Removed duplicate records
+- Analysed missing values
+- Checked for duplicate records
 - Converted data types
-- Encoded categorical variables
-- Selected relevant features
-- Split data into training and testing datasets
+- Processed categorical variables
+- Prepared features for modelling
+- Created training and testing datasets
 
 ---
 
 ### 2. Exploratory Data Analysis
 
-Analysed:
+The project investigates relationships between customer characteristics and churn behaviour.
 
-- Customer churn distribution
-- Relationship between customer characteristics and churn
-- Contract type and churn behaviour
-- Payment methods
-- Customer satisfaction trends
+Analysis includes:
+
+- Overall churn distribution
+- Customer demographic patterns
+- Contract type and churn relationship
+- Payment behaviour
+- Service usage patterns
+- Customer satisfaction factors
 
 Visualisations include:
 
-- Churn distribution charts
+- Churn distribution plots
 - Feature comparisons
 - Correlation analysis
+- Customer behaviour analysis
 
 ---
 
 ### 3. Machine Learning Modelling
 
-Models developed:
+Classification models will be developed and compared.
+
+Models:
 
 | Model | Purpose |
 |---|---|
 | Logistic Regression | Baseline classification model |
 | Decision Tree | Interpretable decision rules |
-| Random Forest | Ensemble learning model |
+| Random Forest | Ensemble learning approach |
 | Gradient Boosting | Improved predictive performance |
 
 Evaluation metrics:
@@ -131,51 +148,44 @@ Evaluation metrics:
 
 ---
 
-## Results
+## Current Progress
 
-(Add after completing)
+Completed:
 
-Example:
+- Data cleaning and preparation
+- Dataset inspection
+- Feature selection and preprocessing setup
 
-The Random Forest model achieved the strongest overall performance, identifying customers at higher risk of churn.
+Upcoming:
 
-Key findings:
-
-- Customers with shorter contract periods had higher churn rates.
-- Customer satisfaction was strongly associated with churn behaviour.
-- Service engagement was an important predictor of retention.
-
----
-
-## Business Recommendations
-
-Based on model insights:
-
-- Target high-risk customers with personalised retention offers.
-- Improve customer support experiences for dissatisfied customers.
-- Encourage longer-term contracts through incentives.
-- Monitor customer behaviour changes indicating churn risk.
+- Exploratory data analysis
+- Feature engineering
+- Machine learning model development
+- Model comparison
+- Feature importance analysis
+- Business recommendations
 
 ---
 
 ## Future Improvements
 
-Potential improvements:
+Potential extensions include:
 
-- Hyperparameter tuning
-- Deployment using Flask/Streamlit
-- Real-time churn prediction pipeline
+- Hyperparameter optimisation
 - Explainable AI techniques such as SHAP
-- Testing on real banking customer datasets
+- Deployment using Flask or Streamlit
+- Real-time churn prediction pipeline
+- Testing on additional customer datasets
 
 ---
 
+
 ## Author
 
-Rohan Sajeesh
+**Rohan Sajeesh**
 
 Bachelor of Applied Data Science  
 Monash University
 
-GitHub:
+GitHub:  
 https://github.com/roro123921
