@@ -1,4 +1,4 @@
-# Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction Using Machine Learning - Individual Project
 
 A machine learning project developing a classification pipeline to predict customer churn and identify key factors influencing customer retention using customer behaviour and service data.
 
@@ -186,6 +186,3 @@ Potential extensions include:
 
 Bachelor of Applied Data Science  
 Monash University
-
-GitHub:  
-https://github.com/roro123921
