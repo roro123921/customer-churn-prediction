@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project uses the **Customer Churn Prediction Dataset_1M** from Kaggle.
+Source:
+Kaggle - Customer Churn Prediction Dataset_1M  
+https://www.kaggle.com/datasets/isandeep06/customer-churn-prediction-dataset-1m
 
 The dataset contains **1,000,000 synthetic telecommunications customer records** designed to simulate real-world customer behaviour and churn patterns.
 
