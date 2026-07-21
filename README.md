@@ -21,6 +21,16 @@ The project follows a complete data science workflow:
 
 ---
 
+## Project Report
+
+A polished exploratory data analysis (EDA) report summarising customer churn patterns, visualisations, key findings, and business recommendations is available below.
+
+- **[Customer Churn Exploratory Data Analysis Report](report/Customer_Churn_EDA_Report_Rohan_Sajeesh.pdf)**
+
+The accompanying Jupyter notebooks contain the full technical implementation and analysis.
+
+---
+
 ## Business Problem
 
 Customer churn directly impacts revenue, customer relationships, and long-term business growth.
