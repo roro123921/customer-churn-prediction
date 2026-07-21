@@ -165,10 +165,10 @@ Completed:
 - Data cleaning and preparation
 - Dataset inspection
 - Feature selection and preprocessing setup
+- Exploratory data analysis
 
 Upcoming:
 
-- Exploratory data analysis
 - Feature engineering
 - Machine learning model development
 - Model comparison
