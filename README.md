@@ -49,7 +49,7 @@ This project simulates a real-world analytics workflow used by organisations to 
 
 **Dataset:** Customer Churn Prediction Dataset
 
-**Source:** To be added
+**Source:** - https://www.kaggle.com/datasets/isandeep06/customer-churn-prediction-dataset-1m
 
 The dataset contains customer demographic, account, service usage, and behavioural information.
 
