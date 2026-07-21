@@ -6,7 +6,7 @@ This folder contains the Jupyter notebooks used throughout the customer churn an
 
 ## 1. Data Cleaning
 
-**[`data_cleaning.ipynb`](data_cleaning.ipynb)**
+**[`customer_churn_data_preprocessing.ipynb`](customer_churn_data_preprocessing.ipynb)**
 
 This notebook performs preprocessing on the raw customer churn dataset.
 
