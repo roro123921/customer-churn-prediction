@@ -159,7 +159,6 @@ Evaluation metrics:
 
 ## Current Progress
 
-## Project Status
 This project is complete. All stages of the data science workflow — data preparation, exploratory analysis, feature engineering, predictive modelling, model evaluation, and business recommendations — have been carried out and documented in the accompanying notebooks and reports.
 
 ---
