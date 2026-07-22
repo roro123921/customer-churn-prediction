@@ -159,20 +159,8 @@ Evaluation metrics:
 
 ## Current Progress
 
-Completed:
-
-- Data cleaning and preparation
-- Dataset inspection
-- Feature selection and preprocessing setup
-- Exploratory data analysis
-
-Upcoming:
-
-- Feature engineering
-- Machine learning model development
-- Model comparison
-- Feature importance analysis
-- Business recommendations
+## Project Status
+This project is complete. All stages of the data science workflow — data preparation, exploratory analysis, feature engineering, predictive modelling, model evaluation, and business recommendations — have been carried out and documented in the accompanying notebooks and reports.
 
 ---
 
