@@ -5,13 +5,11 @@ Machine learning project predicting customer churn using customer behaviour and 
 ---
 
 ## Overview
-
 Customer churn is a major challenge for businesses, particularly in industries such as telecommunications, banking, and subscription services, where retaining existing customers is often more cost-effective than acquiring new ones.
 
 This project aims to develop a machine learning model that predicts whether a customer is likely to leave a service and analyses the factors contributing to churn behaviour.
 
 The project follows a complete data science workflow:
-
 - Data preparation
 - Exploratory data analysis
 - Feature engineering
@@ -19,13 +17,14 @@ The project follows a complete data science workflow:
 - Model evaluation
 - Business insights
 
----
-
 ## Project Report
+A polished, end-to-end report covering data preparation, exploratory analysis, feature engineering, predictive modelling and business recommendations is available below.
 
-A polished exploratory data analysis (EDA) report summarising customer churn patterns, visualisations, key findings, and business recommendations is available below.
+- [Customer Churn: End-to-End Data Science Report](https://github.com/rohan-sajeesh/Customer-Churn-Analysis-and-Prediction/blob/main/report/Customer_Churn_Final_Report_Rohan_Sajeesh.pdf)
 
-- **[Customer Churn Exploratory Data Analysis Report](report/Customer_Churn_EDA_Report_Rohan_Sajeesh.pdf)**
+An earlier report, produced at the end of the exploratory analysis stage before feature engineering and modelling began, is also available for reference.
+
+- [Customer Churn: Exploratory Data Analysis Report](https://github.com/rohan-sajeesh/Customer-Churn-Analysis-and-Prediction/blob/main/report/Customer_Churn_EDA_Report_Rohan_Sajeesh.pdf) *(milestone report — superseded by the Final Report above)*
 
 The accompanying Jupyter notebooks contain the full technical implementation and analysis.
 
